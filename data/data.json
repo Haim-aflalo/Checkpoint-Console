@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "name": "Alice Vanhove",
+    "password": "12BA5",
+    "role": "leader",
+    "messages": []
+  },
+  {
+    "id": "A2",
+    "name": "Marc Dujardin",
+    "password": "12AB45",
+    "role": "member",
+    "messages": []
+  },
+  {
+    "id": "A3",
+    "name": "Sophie Morel",
+    "password": "1POI45",
+    "role": "guest",
+    "messages": []
+  },
+  {
+    "id": "A4",
+    "name": "Thomas Klein",
+    "password": "123QWERTY",
+    "role": "member",
+    "messages": []
+  },
+  {
+    "id": "A5",
+    "name": "Julie Masson",
+    "password": "12345PRINT",
+    "role": "leader",
+    "messages": []
+  }
+]
